@@ -1,0 +1,28 @@
+body{
+  background-image: url('./assets/background.jpg');
+  background-size: cover;
+}
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  
+}
+legend {
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding: 0 8px;
+  color: #ffff;
+  text-align: left;
+}
+.fist--container{
+  margin: 200px;
+  width: 400px;
+}
+.form--data{
+  text-align: center;
+}
+.form--details{
+  width: 350px;
+}
