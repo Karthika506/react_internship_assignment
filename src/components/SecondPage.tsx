@@ -8,7 +8,7 @@ const SecondPage: React.FC = () => {
         <div className='secondpage'>
             <h1>Hey, {items.name}! Welcome to second page</h1>
             <TableData />
-            <h2>Here are the checkboxes</h2>
+            <h2 style={{color: '#fff'}}>Here are the checkboxes</h2>
             <Checkboxes /> 
         </div>
     )
